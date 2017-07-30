@@ -1,6 +1,5 @@
 # Article Knowledgebase Application
 
-knowledgebase app used in the "Node.js & Express From Scratch".
 
 ## Technologies
 * Node.js
