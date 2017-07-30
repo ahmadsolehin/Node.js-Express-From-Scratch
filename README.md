@@ -1,6 +1,6 @@
 # Article Knowledgebase Application
 
-This is a knowledgebase app used in the "Node.js & Express From Scratch".
+knowledgebase app used in the "Node.js & Express From Scratch".
 
 ## Technologies
 * Node.js
@@ -33,3 +33,5 @@ $ npm start
 ## screenshot
 
 ![nn](https://user-images.githubusercontent.com/12325386/28754634-7775c9b0-757b-11e7-8413-4fdb6eb18065.JPG)
+
+![nn](https://user-images.githubusercontent.com/12325386/28754646-b0b31228-757b-11e7-9240-287583b15bc1.JPG)
