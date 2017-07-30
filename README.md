@@ -38,5 +38,4 @@ $ npm start
 
 ![nn](https://user-images.githubusercontent.com/12325386/28754651-ecc412b2-757b-11e7-9b6e-3ffe69bb598f.JPG)
 
-![nn](https://user-images.githubusercontent.com/12325386/28754668-4cefa94e-757c-11e7-835b-e0b5cdcc8a11.JPG)
 
